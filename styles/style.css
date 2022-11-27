@@ -311,7 +311,7 @@
   width: 90%;
 }
 
-.footer__column__content_copyright {
+.footer__column_content_copyright {
   display: flex;
   flex-direction: column;
   flex-basis: 711px;
